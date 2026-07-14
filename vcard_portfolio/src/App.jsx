@@ -62,8 +62,8 @@ function App() {
           <div className='section-5'>
             <span className="name">{details.name}</span>
             <div className='info-section'>
-              <span className='emailId'>{details.email}</span>
-              <span className='siteConfig'>{details.website}</span>
+              <a href={`mailto:${details.email}`} className='emailId'>{details.email}</a>
+              <a href={details.website} target="_blank" rel="noopener noreferrer" className='siteConfig'>{details.website}</a>
             </div>
           </div>
         </div>
