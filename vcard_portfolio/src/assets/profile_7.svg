@@ -1,139 +1,139 @@
-<svg width="1478" height="1131" viewBox="0 0 1478 1131" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1478" height="1170" viewBox="0 0 1478 1170" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="Repeat group 1_inner" data-figma-trr="r6u1-0f">
-<path d="M373.933 633.08C370.905 662.283 399.666 703.72 399.666 703.72L441.546 707C441.546 707 464.715 677.735 469.55 655.281C477.889 616.552 479.08 566.175 440.285 558.15C402.009 550.233 377.963 594.203 373.933 633.08Z" fill="#FF3232"/>
+<path d="M373.933 661.08C370.905 690.283 399.666 731.72 399.666 731.72L441.546 735C441.546 735 464.715 705.735 469.55 683.281C477.889 644.552 479.08 594.175 440.285 586.15C402.009 578.233 377.963 622.203 373.933 661.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_inner" transform="translate(824.28 -13.6948) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_inner" transform="translate(1248.28 693.305) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_inner" transform="translate(848 1414) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_inner" transform="translate(23.72 1427.69) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_inner" transform="translate(-400.28 720.695) rotate(-60)"/>
-<circle cx="423.932" cy="706.932" r="50.4575" fill="#FF9900"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(848.529 0.30524) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(1272.53 735.305) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(848 1470) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(-0.528755 1469.69) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(-424.529 734.695) rotate(-60)"/>
+<circle cx="423.932" cy="734.932" r="50.4575" fill="#FF9900"/>
 <g id="Repeat group 1_2_inner" data-figma-trr="r6u1-0f">
-<path d="M410.933 234.08C407.905 263.283 436.666 304.72 436.666 304.72L478.546 308C478.546 308 501.715 278.735 506.55 256.281C514.889 217.552 516.08 167.175 477.285 159.15C439.009 151.233 414.963 195.203 410.933 234.08Z" fill="#FF3232"/>
+<path d="M410.933 262.08C407.905 291.283 436.666 332.72 436.666 332.72L478.546 336C478.546 336 501.715 306.735 506.55 284.281C514.889 245.552 516.08 195.175 477.285 187.15C439.009 179.233 414.963 223.203 410.933 262.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(497.236 -245.238) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(958.236 62.7623) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(922 616) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(424.764 861.238) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(-36.2358 553.238) rotate(-60)"/>
-<circle cx="460.932" cy="307.932" r="50.4575" fill="#FF9900"/>
+<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(521.485 -231.238) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(982.485 104.762) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(922 672) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(400.515 903.238) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_2_inner" transform="translate(-60.4845 567.238) rotate(-60)"/>
+<circle cx="460.932" cy="335.932" r="50.4575" fill="#FF9900"/>
 <g id="Repeat group 1_3_inner" data-figma-trr="r6u1-0f">
-<path d="M919.933 370.08C916.905 399.283 945.666 440.72 945.666 440.72L987.546 444C987.546 444 1010.72 414.735 1015.55 392.281C1023.89 353.552 1025.08 303.175 986.285 295.15C948.009 287.233 923.963 331.203 919.933 370.08Z" fill="#FF3232"/>
+<path d="M919.933 398.08C916.905 427.283 945.666 468.72 945.666 468.72L987.546 472C987.546 472 1010.72 442.735 1015.55 420.281C1023.89 381.552 1025.08 331.175 986.285 323.15C948.009 315.233 923.963 359.203 919.933 398.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(869.515 -618.045) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(1839.52 -174.045) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(1940 888) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(1070.48 1506.04) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(100.485 1062.04) rotate(-60)"/>
-<circle cx="969.932" cy="443.932" r="50.4575" fill="#FF9900"/>
+<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(893.764 -604.045) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(1863.76 -132.045) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(1940 944) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(1046.24 1548.04) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_3_inner" transform="translate(76.2361 1076.04) rotate(-60)"/>
+<circle cx="969.932" cy="471.932" r="50.4575" fill="#FF9900"/>
 <g id="Repeat group 1_4_inner" data-figma-trr="r6u1-0f">
-<path d="M1077.93 692.08C1074.91 721.283 1103.67 762.72 1103.67 762.72L1145.55 766C1145.55 766 1168.72 736.735 1173.55 714.281C1181.89 675.552 1183.08 625.175 1144.28 617.15C1106.01 609.233 1081.96 653.203 1077.93 692.08Z" fill="#FF3232"/>
+<path d="M1077.93 720.08C1074.91 749.283 1103.67 790.72 1103.67 790.72L1145.55 794C1145.55 794 1168.72 764.735 1173.55 742.281C1181.89 703.552 1183.08 653.175 1144.28 645.15C1106.01 637.233 1081.96 681.203 1077.93 720.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(1227.38 -593.877) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(2355.38 172.123) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(2256 1532) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(1028.62 2125.88) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(-99.3754 1359.88) rotate(-60)"/>
-<circle cx="1127.93" cy="765.932" r="50.4575" fill="#FF9900"/>
+<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(1251.62 -579.877) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(2379.62 214.123) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(2256 1588) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(1004.38 2167.88) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_4_inner" transform="translate(-123.624 1373.88) rotate(-60)"/>
+<circle cx="1127.93" cy="793.932" r="50.4575" fill="#FF9900"/>
 <g id="Repeat group 1_5_inner" data-figma-trr="r6u1-0f">
-<path d="M107.933 420.08C104.905 449.283 133.666 490.72 133.666 490.72L175.546 494C175.546 494 198.715 464.735 203.55 442.281C211.889 403.552 213.08 353.175 174.285 345.15C136.009 337.233 111.963 381.203 107.933 420.08Z" fill="#FF3232"/>
+<path d="M107.933 448.08C104.905 477.283 133.666 518.72 133.666 518.72L175.546 522C175.546 522 198.715 492.735 203.55 470.281C211.889 431.552 213.08 381.175 174.285 373.15C136.009 365.233 111.963 409.203 107.933 448.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(506.817 110.168) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(664.817 604.168) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(316 988) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(-190.817 877.832) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(-348.817 383.832) rotate(-60)"/>
-<circle cx="157.932" cy="493.932" r="50.4575" fill="#FF9900"/>
+<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(531.065 124.168) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(689.065 646.168) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(316 1044) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(-215.065 919.832) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_5_inner" transform="translate(-373.065 397.832) rotate(-60)"/>
+<circle cx="157.932" cy="521.932" r="50.4575" fill="#FF9900"/>
 <g id="Repeat group 1_6_inner" data-figma-trr="r6u1-0f">
-<path d="M746.933 84.0797C743.905 113.283 772.666 154.72 772.666 154.72L814.546 158C814.546 158 837.715 128.735 842.55 106.281C850.889 67.5525 852.08 17.1746 813.285 9.15027C775.009 1.23342 750.963 45.2025 746.933 84.0797Z" fill="#FF3232"/>
+<path d="M746.933 112.08C743.905 141.283 772.666 182.72 772.666 182.72L814.546 186C814.546 186 837.715 156.735 842.55 134.281C850.889 95.5525 852.08 45.1746 813.285 37.1503C775.009 29.2334 750.963 73.2025 746.933 112.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(535.332 -611.222) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(1332.33 -453.222) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(1594 316) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(1058.67 927.222) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(261.668 769.222) rotate(-60)"/>
-<circle cx="796.932" cy="157.932" r="50.4575" fill="#FF9900"/>
+<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(559.581 -597.222) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(1356.58 -411.222) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(1594 372) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(1034.42 969.222) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_6_inner" transform="translate(237.419 783.222) rotate(-60)"/>
+<circle cx="796.932" cy="185.932" r="50.4575" fill="#FF9900"/>
 <g id="Repeat group 1_7_inner" data-figma-trr="r6u1-0f">
-<path d="M1269.93 400.08C1266.91 429.283 1295.67 470.72 1295.67 470.72L1337.55 474C1337.55 474 1360.72 444.735 1365.55 422.281C1373.89 383.552 1375.08 333.175 1336.28 325.15C1298.01 317.233 1273.96 361.203 1269.93 400.08Z" fill="#FF3232"/>
+<path d="M1269.93 428.08C1266.91 457.283 1295.67 498.72 1295.67 498.72L1337.55 502C1337.55 502 1360.72 472.735 1365.55 450.281C1373.89 411.552 1375.08 361.175 1336.28 353.15C1298.01 345.233 1273.96 389.203 1269.93 428.08Z" fill="#FF3232"/>
 </g>
-<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(1070.5 -906.154) rotate(60)"/>
-<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(2390.5 -432.153) rotate(120)"/>
-<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(2640 948) rotate(-180)"/>
-<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(1569.5 1854.15) rotate(-120)"/>
-<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(249.504 1380.15) rotate(-60)"/>
-<circle cx="1319.93" cy="473.932" r="50.4575" fill="#FF9900"/>
-<path d="M568.931 417.31C539.582 523.407 515.078 670 603.778 670H945.778C889.196 634.208 874.353 588.384 881.101 529.348C893.884 417.51 829.273 310 716.707 310C648.654 310 587.075 351.721 568.931 417.31Z" fill="#03010F"/>
-<path d="M712.5 693.5C727.773 677.604 726.598 657.412 712.5 607.5H801.5C783.429 647.584 785.618 665.627 801.5 693.5H712.5Z" fill="url(#paint0_linear_408_3133)"/>
-<ellipse cx="603.5" cy="531" rx="35.5" ry="34" fill="#FC8658"/>
-<circle cx="619" cy="570" r="16" fill="url(#paint1_linear_408_3133)"/>
-<circle cx="907" cy="557" r="16" fill="url(#paint2_linear_408_3133)"/>
-<ellipse cx="35.5" cy="34" rx="35.5" ry="34" transform="matrix(-1 0 0 1 923 481)" fill="#FC8658"/>
-<path d="M910 492C910 554.96 843.514 624 761.5 624C679.486 624 613 554.96 613 492C613 429.04 679.486 378 761.5 378C843.514 378 910 429.04 910 492Z" fill="url(#paint3_linear_408_3133)"/>
-<path d="M795.5 347C810.862 347 824.59 353.221 833.669 362.983C837.087 359.807 840.704 358 844.5 358C866.042 358 884.365 370.233 891.169 387.309C912.699 392.082 928.65 409.384 928.65 430C928.65 454.301 928.65 520 879.15 475C906.596 483.317 895.201 455.05 884.26 428.211C875.239 439.005 860.789 446 844.5 446C817.162 446 799 500.301 799 476C799 467.687 801.125 451.252 805.017 433.226C776.42 452.693 740.377 470 725 470C703.891 470 767.25 437.208 766.835 411.216C749.912 439.1 695.903 481 673 481C662.841 481 667.965 474.509 675.544 464.452C671.388 465.459 667.015 466 662.5 466C648.98 466 636.728 461.18 627.795 453.37C623.577 460.757 620 468.627 620 476C620 500.301 658.838 510 631.5 510C604.162 510 582 490.301 582 466C582 447.471 594.885 431.619 613.124 425.133C613.042 424.098 613 423.053 613 422C613 397.699 635.162 378 662.5 378C667.502 378 672.33 378.662 676.882 379.889C684.392 364.088 701.99 353 722.5 353C735.389 353 747.127 357.381 755.935 364.557C764.968 353.895 779.328 347 795.5 347Z" fill="#03010F"/>
-<path d="M675 521.132C675 521.132 683 529.632 692 527.632C701 525.632 728.029 490.506 747 504.132C750.589 506.709 755 512.132 755 512.132" stroke="black"/>
-<path d="M897 504.132C897 504.132 889 512.632 880 510.632C871 508.632 843.971 473.506 825 487.132C821.411 489.709 817 495.132 817 495.132" stroke="black"/>
-<ellipse cx="736" cy="524" rx="19" ry="23" fill="black"/>
-<ellipse cx="836" cy="507" rx="19" ry="23" fill="black"/>
-<path d="M705 538C705 538 718.743 546.699 728.5 546.5C734.75 546.373 744 542.5 744 542.5" stroke="black"/>
-<path d="M866 522C866 522 852.257 530.699 842.5 530.5C836.25 530.373 827 526.5 827 526.5" stroke="black"/>
-<path d="M736.457 471.473C716.905 460.185 665.41 518.365 689.27 504.875C713.131 491.384 726.537 487.533 750.504 488.302C750.504 488.302 743.871 475.754 736.457 471.473Z" fill="black"/>
-<path d="M827.526 455.473C847.078 444.185 898.573 502.365 874.713 488.875C850.853 475.384 837.446 471.533 813.479 472.302C813.479 472.302 820.112 459.754 827.526 455.473Z" fill="black"/>
-<ellipse cx="744.5" cy="530" rx="6.5" ry="7" fill="white"/>
-<ellipse cx="842.5" cy="513" rx="6.5" ry="7" fill="white"/>
-<ellipse cx="803.5" cy="553.5" rx="13.5" ry="11.5" transform="rotate(-2.83036 803.5 553.5)" fill="url(#paint4_linear_408_3133)"/>
-<path d="M811.5 571.5C819.75 569.939 833 571.5 833 571.5C833 571.5 825.129 596.821 811.5 601C798.57 604.964 778.5 590.5 778.5 590.5C778.5 590.5 796.888 574.264 811.5 571.5Z" fill="#F51515"/>
-<path d="M778.5 590.5C778.5 590.5 799.376 589.459 811.5 584.5C820.582 580.786 833 571.5 833 571.5M833 571.5C833 571.5 825.129 596.821 811.5 601C798.57 604.964 778.5 590.5 778.5 590.5C778.5 590.5 796.888 574.264 811.5 571.5C819.75 569.939 833 571.5 833 571.5Z" stroke="#CA0000"/>
-<path d="M715.5 500C715.5 500 727.966 492.568 736.5 493.5C742.847 494.193 751.5 500 751.5 500" stroke="#FF7A45"/>
-<path d="M852 483.581C852 483.581 839.534 476.149 831 477.081C824.653 477.774 816 483.581 816 483.581" stroke="#FF7A45"/>
-<g filter="url(#filter0_f_408_3133)">
-<ellipse cx="706" cy="573.5" rx="23" ry="19.5" fill="#F51515" fill-opacity="0.5"/>
+<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(1094.74 -892.154) rotate(60)"/>
+<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(2414.74 -390.153) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(2640 1004) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(1545.26 1896.15) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_7_inner" transform="translate(225.255 1394.15) rotate(-60)"/>
+<circle cx="1319.93" cy="501.932" r="50.4575" fill="#FF9900"/>
+<path d="M472.795 144.598C429.971 296.374 391.335 513.191 520.13 513.191H1007.66C921.491 458.683 903.229 387.851 917.856 295.172C941.516 145.259 850.584 0 698.816 0H672.387C580.635 0 497.711 56.2941 472.795 144.598Z" fill="#03010F"/>
+<path d="M675.117 546.691C696.89 524.031 695.213 495.248 675.117 424.096H801.989C776.228 481.237 779.349 506.957 801.989 546.691H675.117Z" fill="url(#paint0_linear_409_3134)"/>
+<ellipse cx="519.734" cy="315.043" rx="50.6064" ry="48.4681" fill="#FC8658"/>
+<circle cx="541.83" cy="370.638" r="22.8085" fill="url(#paint1_linear_409_3134)"/>
+<circle cx="952.383" cy="352.106" r="22.8085" fill="url(#paint2_linear_409_3134)"/>
+<ellipse cx="50.6064" cy="48.4681" rx="50.6064" ry="48.4681" transform="matrix(-1 0 0 1 975.191 243.766)" fill="#FC8658"/>
+<path d="M956.66 259.447C956.66 349.199 861.882 447.617 744.968 447.617C628.054 447.617 533.277 349.199 533.277 259.447C533.277 169.695 628.054 96.9362 744.968 96.9362C861.882 96.9362 956.66 169.695 956.66 259.447Z" fill="url(#paint3_linear_409_3134)"/>
+<path d="M793.437 52.7447C815.336 52.7448 834.904 61.6123 847.847 75.5279C852.719 71.0008 857.877 68.4253 863.287 68.4253C893.995 68.4253 920.122 85.8617 929.82 110.204C960.51 117.01 983.246 141.677 983.246 171.064C983.246 205.705 983.246 299.361 912.683 235.212C951.807 247.068 935.564 206.774 919.967 168.514C907.108 183.901 886.508 193.873 863.287 193.873C824.316 193.873 798.426 271.279 798.426 236.638C798.426 224.788 801.455 201.361 807.002 175.664C766.237 203.415 714.856 228.085 692.936 228.085C662.845 228.085 753.165 181.339 752.573 144.287C728.45 184.036 651.457 243.766 618.809 243.766C604.328 243.766 611.63 234.515 622.432 220.182C616.508 221.616 610.275 222.383 603.84 222.383C584.567 222.383 567.099 215.514 554.364 204.381C548.353 214.911 543.255 226.128 543.255 236.638C543.255 271.279 598.62 285.106 559.649 285.106C520.678 285.106 489.085 257.024 489.085 222.383C489.085 195.97 507.453 173.37 533.454 164.125C533.338 162.65 533.277 161.161 533.277 159.66C533.277 125.019 564.869 96.9363 603.84 96.9361C610.971 96.9361 617.855 97.8778 624.344 99.6265C635.051 77.1034 660.135 61.2974 689.372 61.2974C707.746 61.2974 724.479 67.5413 737.034 77.7701C749.911 62.5717 770.383 52.7447 793.437 52.7447Z" fill="#03010F"/>
+<path d="M621.66 300.975C621.66 300.975 633.064 313.092 645.894 310.241C658.723 307.39 697.254 257.318 724.298 276.741C729.414 280.415 735.702 288.145 735.702 288.145" stroke="black"/>
+<path d="M938.128 276.741C938.128 276.741 926.723 288.858 913.894 286.007C901.064 283.156 862.534 233.084 835.489 252.507C830.374 256.181 824.085 263.911 824.085 263.911" stroke="black"/>
+<ellipse cx="708.617" cy="305.064" rx="27.0851" ry="32.7872" fill="black"/>
+<ellipse cx="851.17" cy="280.83" rx="27.0851" ry="32.7872" fill="black"/>
+<path d="M664.426 325.021C664.426 325.021 684.016 337.422 697.926 337.138C706.835 336.957 720.021 331.436 720.021 331.436" stroke="black"/>
+<path d="M893.936 302.213C893.936 302.213 874.345 314.613 860.436 314.33C851.526 314.148 838.34 308.628 838.34 308.628" stroke="black"/>
+<path d="M709.269 230.186C681.397 214.094 607.989 297.031 642.003 277.8C676.016 258.569 695.127 253.078 729.293 254.175C729.293 254.175 719.838 236.287 709.269 230.186Z" fill="black"/>
+<path d="M839.09 207.377C866.963 191.285 940.37 274.222 906.357 254.991C872.343 235.76 853.232 230.27 819.066 231.366C819.066 231.366 828.522 213.478 839.09 207.377Z" fill="black"/>
+<ellipse cx="720.734" cy="313.617" rx="9.26596" ry="9.97872" fill="white"/>
+<ellipse cx="860.436" cy="289.383" rx="9.26596" ry="9.97872" fill="white"/>
+<ellipse cx="804.84" cy="347.117" rx="19.2447" ry="16.3936" transform="rotate(-2.83036 804.84 347.117)" fill="url(#paint4_linear_409_3134)"/>
+<path d="M816.245 372.777C828.005 370.552 846.894 372.777 846.894 372.777C846.894 372.777 835.674 408.873 816.245 414.83C797.813 420.481 769.202 399.862 769.202 399.862C769.202 399.862 795.415 376.717 816.245 372.777Z" fill="#F51515"/>
+<path d="M769.202 399.862C769.202 399.862 798.962 398.377 816.245 391.309C829.191 386.014 846.894 372.777 846.894 372.777M846.894 372.777C846.894 372.777 835.674 408.873 816.245 414.83C797.813 420.481 769.202 399.862 769.202 399.862C769.202 399.862 795.415 376.717 816.245 372.777C828.005 370.552 846.894 372.777 846.894 372.777Z" stroke="#CA0000"/>
+<path d="M679.394 270.851C679.394 270.851 697.164 260.257 709.33 261.585C718.377 262.573 730.713 270.851 730.713 270.851" stroke="#FF7A45"/>
+<path d="M873.979 247.445C873.979 247.445 856.208 236.851 844.043 238.179C834.995 239.167 822.66 247.445 822.66 247.445" stroke="#FF7A45"/>
+<g filter="url(#filter0_f_409_3134)">
+<ellipse cx="665.851" cy="375.628" rx="32.7872" ry="27.7979" fill="#F51515" fill-opacity="0.5"/>
 </g>
-<g filter="url(#filter1_f_408_3133)">
-<ellipse cx="857" cy="550.5" rx="23" ry="19.5" fill="#F51515" fill-opacity="0.5"/>
+<g filter="url(#filter1_f_409_3134)">
+<ellipse cx="881.106" cy="342.84" rx="32.7872" ry="27.7979" fill="#F51515" fill-opacity="0.5"/>
 </g>
-<path d="M581 510.5L595 517.5M609 524.5L595 517.5M595 517.5L615.5 552" stroke="#FF7A45"/>
-<path d="M656.5 713.5L516 954L806.5 1130.5L1080 954L894 724.5L769 688L656.5 713.5Z" fill="#0340A8"/>
-<path d="M738 645L675 674.5C675 674.5 693.521 722.913 720.5 735C743.309 745.219 761.527 744.844 784.5 735C812.222 723.121 832.5 674.5 832.5 674.5L791 657.5L764.5 689.5L738 645Z" fill="url(#paint5_linear_408_3133)"/>
-<path d="M675.5 825.5L606.5 1008" stroke="#052D73"/>
-<path d="M907 838L976 1020.5" stroke="#052D73"/>
-<path d="M764 741L786 954.5" stroke="#8EB7FD"/>
-<ellipse cx="766.5" cy="770" rx="12.5" ry="12" fill="white"/>
-<ellipse cx="773.5" cy="806" rx="12.5" ry="12" fill="white"/>
-<ellipse cx="776.5" cy="842" rx="12.5" ry="12" fill="white"/>
-<ellipse cx="778.5" cy="878" rx="12.5" ry="12" fill="white"/>
-<ellipse cx="785.5" cy="917" rx="12.5" ry="12" fill="white"/>
+<path d="M487.66 285.819L507.617 295.798M527.574 305.777L507.617 295.798M507.617 295.798L536.84 344.979" stroke="#FF7A45"/>
+<path d="M595.287 575.202L395 918.043L809.117 1169.65L1199 918.043L933.851 590.883L755.66 538.851L595.287 575.202Z" fill="#0340A8"/>
+<path d="M711.468 477.553L621.66 519.606C621.66 519.606 648.062 588.621 686.521 605.851C719.036 620.418 745.006 619.884 777.755 605.851C817.274 588.918 846.181 519.606 846.181 519.606L787.021 495.372L749.245 540.989L711.468 477.553Z" fill="url(#paint5_linear_409_3134)"/>
+<path d="M622.372 734.862L524.011 995.021" stroke="#052D73"/>
+<path d="M952.383 752.681L1050.74 1012.84" stroke="#052D73"/>
+<path d="M748.532 614.404L779.894 918.755" stroke="#8EB7FD"/>
+<ellipse cx="752.096" cy="655.745" rx="17.8191" ry="17.1064" fill="white"/>
+<ellipse cx="762.074" cy="707.064" rx="17.8191" ry="17.1064" fill="white"/>
+<ellipse cx="766.351" cy="758.383" rx="17.8191" ry="17.1064" fill="white"/>
+<ellipse cx="769.202" cy="809.702" rx="17.8191" ry="17.1064" fill="white"/>
+<ellipse cx="779.181" cy="865.298" rx="17.8191" ry="17.1064" fill="white"/>
 <defs>
-<filter id="filter0_f_408_3133" x="643" y="514" width="126" height="119" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_f_409_3134" x="593.064" y="307.83" width="145.574" height="135.596" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_408_3133"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_409_3134"/>
 </filter>
-<filter id="filter1_f_408_3133" x="794" y="491" width="126" height="119" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_f_409_3134" x="808.319" y="275.043" width="145.574" height="135.596" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_408_3133"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_409_3134"/>
 </filter>
-<linearGradient id="paint0_linear_408_3133" x1="757" y1="607.5" x2="757" y2="693.5" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_409_3134" x1="738.553" y1="424.096" x2="738.553" y2="546.691" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FC8658"/>
 <stop offset="1" stop-color="#FFA17C"/>
 </linearGradient>
-<linearGradient id="paint1_linear_408_3133" x1="619" y1="554" x2="619" y2="586" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_409_3134" x1="541.83" y1="347.83" x2="541.83" y2="393.447" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FF9B05"/>
 <stop offset="1" stop-color="#FFB84E"/>
 </linearGradient>
-<linearGradient id="paint2_linear_408_3133" x1="907" y1="541" x2="907" y2="573" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint2_linear_409_3134" x1="952.383" y1="329.298" x2="952.383" y2="374.915" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FF9B05"/>
 <stop offset="1" stop-color="#FFB84E"/>
 </linearGradient>
-<linearGradient id="paint3_linear_408_3133" x1="761.5" y1="378" x2="761.5" y2="624" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint3_linear_409_3134" x1="744.968" y1="96.9362" x2="744.968" y2="447.617" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FC8658"/>
 <stop offset="1" stop-color="#FFA17C"/>
 </linearGradient>
-<linearGradient id="paint4_linear_408_3133" x1="803.5" y1="542" x2="803.5" y2="565" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint4_linear_409_3134" x1="804.84" y1="330.723" x2="804.84" y2="363.511" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FFA17C"/>
 <stop offset="1" stop-color="#FF7A45"/>
 </linearGradient>
-<linearGradient id="paint5_linear_408_3133" x1="753.75" y1="645" x2="753.75" y2="742.524" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint5_linear_409_3134" x1="733.92" y1="477.553" x2="733.92" y2="616.577" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="1" stop-color="#8EB7FD"/>
 </linearGradient>
