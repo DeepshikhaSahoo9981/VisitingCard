@@ -3,7 +3,7 @@ import details from "./assets/Details.json";
 const profileImg = new URL(`./assets/${details.profilePhoto}`, import.meta.url).href;
 const visingCardImg = new URL(`./assets/${details.visitingCard}`, import.meta.url).href;
 const resume = new URL(`./assets/${details.resume}`, import.meta.url).href;
-const visiting_card = new URL(`./assets/${details.visitingCard}`, import.meta.url).href;
+const visiting_card = new URL(`./assets/${details.addContacts}`, import.meta.url).href;
 import mailImg from "/icons/mail.svg";
 import callImg from "/icons/call.svg";
 import resumeImg from "/icons/download_resume.svg";
