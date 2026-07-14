@@ -1,5 +1,5 @@
 .Vcard {
-  height: 100dvh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -8,8 +8,29 @@
   position: relative;
   font-family: headingFont, sans-serif;
   gap: 1rem;
+  padding: 1rem 2rem;
+  background: #0057C8;
+}
+
+.section-main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  gap: 1rem;
   background: #F2D24B;
   padding: 1rem 2rem;
+  border-radius: 2rem;
+  box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.15);
+}
+
+.section-0{
+  width: 400px;
+}
+
+.section-0 img{
+  height: 12rem;
 }
 
 .section-1{
@@ -69,8 +90,12 @@
 }
 
 @media(max-width: 786px){
-  .section-1,.section-2,.section-3{
+  .section-0,.section-1,.section-2,.section-3{
     width: 300px;
+  }
+
+  .section-0 img{
+    height: 10rem;
   }
   
   .name{

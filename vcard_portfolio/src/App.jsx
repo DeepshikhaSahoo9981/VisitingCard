@@ -14,32 +14,39 @@ function App() {
 
   return (
     <section className='Vcard'>
-      <div className='section-1'>
-        <span className="name">{details.name}</span>
-        <span className="title">{details.title}</span>
-        <span className="description">{details.description}</span>
+      <div className='section-main'>
+        <div className='section-0'>
+          <img src={profileImg} alt="profile" />
+        </div>
+
+        <div className='section-1'>
+          <span className="name">{details.name}</span>
+          <span className="title">{details.title}</span>
+          <span className="description">{details.description}</span>
+        </div>
+
+        <div className='section-2'>
+          <a href={`tel:${details.mobileNo}`}>
+            <img src={callImg} alt="call" />
+          </a>
+
+          <a href={`mailto:${details.email}`}>
+            <img src={mailImg} alt="mail" />
+          </a>
+
+          <a href={details.website} target="_blank" rel="noopener noreferrer">
+            <img src={siteImg} alt="site" />
+          </a>
+
+          <a href={resume} download="Deepskikha_Resume.pdf">
+            <img src={resumeImg} alt="resume" />
+          </a>
+        </div>
+
+        <a href={visiting_card} download="Deepshikha_Contact.vcf" className='section-3'>
+          Add Contact
+        </a>
       </div>
-      <div className='section-2'>
-        <a href={`tel:${details.mobileNo}`}>
-          <img src={callImg} alt="call" />
-        </a>
-
-        <a href={`mailto:${details.email}`}>
-          <img src={mailImg} alt="mail" />
-        </a>
-
-        <a href={details.website} target="_blank" rel="noopener noreferrer">
-          <img src={siteImg} alt="site" />
-        </a>
-
-        <a href={resume} download="Deepskikha_Resume.pdf">
-          <img src={resumeImg} alt="resume" />
-        </a>
-      </div>
-
-      <a href={visiting_card} download="Deepshikha_Contact.vcf" className='section-3'>
-        Add Contact
-      </a>
     </section>
   )
 }
